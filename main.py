@@ -1,3 +1,5 @@
 from funcoes import limparTela
 
-print("Olá, Mundo!")
+limparTela()
+print("Hello World")
+
