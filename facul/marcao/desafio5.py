@@ -1,0 +1,1 @@
+# O professor está gordinho. Dá para perceber né. Para auxiliar o professor nos cuidados de sua saúde calcule o IMC (índice de massa corporal). Sabe-se que a altura do prof. é de 1,90 e seu peso é de 100 kg. Como saída apresente o IMC do professor.
