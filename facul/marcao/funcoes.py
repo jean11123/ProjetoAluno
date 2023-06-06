@@ -19,6 +19,6 @@ def lerString(mensagem):
   while True:
     variavel = input(mensagem)
     if len(variavel)>1:
-      return variavel
+      return variavel 
     else:
       print("Valor informado incorretamente")
